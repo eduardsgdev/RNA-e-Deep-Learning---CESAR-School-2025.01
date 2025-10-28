@@ -1,1 +1,2 @@
-# RNA-e-Deep-Learning---CESAR-School-2025.01
+# Nome: Eduardo Souza Gomes
+# Email: esg3@cesar.school
